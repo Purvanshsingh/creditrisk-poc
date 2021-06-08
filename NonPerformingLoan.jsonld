@@ -13,7 +13,14 @@
     "propertyOn": {
         "@id": "rdfs:range",
         "@type": "@id"
-     }
+     },
+    "Loan" : "NPL:Loan",
+    "Borrower" : "NPL:CounterParty",
+    "LegalEntityIdentifier" : "NPL:LegalEntityIdentifier",
+    "TotalAssets" : "NPL:TotalAssets",
+    "DateOfIncorporation" : "NPL:DateOfIncorporation",
+    "TotalBalance" : "NPL:TotalBalance",
+    "ChannelOfOrigination" : "NPL:ChannelOfOrigination"
   },
   "@id" : "",
   "@type" : "http://www.w3.org/2002/07/owl#Ontology",
