@@ -23,7 +23,7 @@
     "TotalBalance" : "NPL:TotalBalance",
     "ChannelOfOrigination" : "NPL:ChannelOfOrigination"
   },
-  "@id" : "",
+  "@id" : "https://raw.githubusercontent.com/Purvanshsingh/creditrisk-poc/test/NonPerformingLoan.jsonld",
   "@type" : "http://www.w3.org/2002/07/owl#Ontology",
   "rdf:label": "Non performing loan vocabulary",
    "rdf:comment" : "",
