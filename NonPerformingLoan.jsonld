@@ -1,6 +1,6 @@
 {
   "@context": {
-    "NPL": "https://raw.githubusercontent.com/Purvanshsingh/creditrisk-poc/test/NonPerformingLoan.jsonld"
+    "NPL": "https://raw.githubusercontent.com/Purvanshsingh/creditrisk-poc/test/NonPerformingLoan.jsonld",
    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "owl": "http://www.w3.org/2002/07/owl#",
     "xsd": "https://www.w3.org/TR/xmlschema-2/#",
